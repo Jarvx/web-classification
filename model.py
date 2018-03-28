@@ -1,3 +1,7 @@
+'''
+Some part of implementation of Child-Sum Tree  is from https://github.com/dasguptar/treelstm.pytorch
+'''
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
